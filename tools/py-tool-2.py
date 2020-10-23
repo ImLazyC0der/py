@@ -1,3 +1,4 @@
+#python
 import numpy
 # Two matrices are initialized by value
 x = numpy.array([[1, 2], [4, 5]])
