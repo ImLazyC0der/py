@@ -1,3 +1,3 @@
 #py
-Any python tools are accepted here.
+Any projects can be added 
 =======
