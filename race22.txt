@@ -1,0 +1,19 @@
+u=50
+
+for i in range(0,50,10):
+
+ s=input("are you tired?")
+
+ if s=="yes":
+
+ print("you didn't finish the race")
+
+ break
+
+ elif s=="no":
+
+ continue
+
+ if i == 49:
+
+ print("congratulations !")
