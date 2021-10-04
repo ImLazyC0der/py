@@ -1,0 +1,17 @@
+import matplotlib.pyplot as plt
+
+import numpy as np
+
+import pandas as pd
+
+Days=[1,2,3,4,5,6,7,8]
+
+Speed=[60,62,61,58,56,57,46,63]
+
+plt.plot(Days,Speed, color="Blue",linewidth=4)
+
+plt.xlabel('Days')
+
+plt.ylabel('Speed')
+
+plt.show()
